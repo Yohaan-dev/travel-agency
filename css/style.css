@@ -294,7 +294,7 @@ img {
     width: 250px;
     height: 100%;
     background: #fff;
-    z-index: 10;
+    z-index: 100;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
     transition: right 0.2s ease-in-out;
 }
